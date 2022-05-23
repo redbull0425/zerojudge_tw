@@ -1,8 +1,8 @@
 # zerojudge_tw
 zerojudge_tw
 
-<<適合所有中學生及初學者的 Online Judge 系統>>
-<<ZeroJudge, An Online Judge System For Beginners>>
+<<適合所有中學生及初學者的 Online Judge 系統>>  
+<<ZeroJudge, An Online Judge System For Beginners>>  
 
 AC (Accept): 即表示通過
 NA (Not Accept): 在多測資點的題目中若未通過所有測資點則出現 NA
