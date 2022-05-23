@@ -1,6 +1,5 @@
 # zerojudge_tw
-zerojudge_tw
-
+  
 <<適合所有中學生及初學者的 Online Judge 系統>>  
 <<ZeroJudge, An Online Judge System For Beginners>>  
 
