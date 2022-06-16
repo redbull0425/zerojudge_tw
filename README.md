@@ -1,5 +1,5 @@
 # zerojudge_tw
-  
+[This is an external link to https://zerojudge.tw/](https://zerojudge.tw/)  
 <<適合所有中學生及初學者的 Online Judge 系統>>  
 <<ZeroJudge, An Online Judge System For Beginners>>  
 
