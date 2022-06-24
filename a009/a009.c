@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+int main() {
 /*
     char str_example[100] = "This is a book.";
 
@@ -30,7 +30,7 @@ int main(){
     for(int i = 0; str[i] != '\0'; ++i) {  
         printf("%c", str[i] - 7);
     }
-        printf("\n");
+        //printf("\n");
 /*
     for(int j = 0; str[j] != '\0'; ++j) { 
         printf("%d", str[j] - 7);
