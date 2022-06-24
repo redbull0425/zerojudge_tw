@@ -15,10 +15,13 @@ int main() {
     printf("%d", str_in[n]);
   }
     printf("\n");
+
   for(int o = 0; str_out[o] != '\0'; ++o) {  
     printf("%d", str_out[o]);
   }
     printf("\n");
+
+//編碼的差數為 -7
   for(int m = 0; str_in[m] != '\0'; ++m) {  
     printf("%c", str_in[m]-7);
   }
